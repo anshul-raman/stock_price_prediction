@@ -1,2 +1,2 @@
 # Stock price prediction
-Stock price prediction using data mining and machine learning
+Stock price prediction using machine learning and sentiment analysis
